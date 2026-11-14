@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxNumber", "MaxNumber\MaxNumber.csproj", "{77DF9AB2-BCEA-43E8-9528-7AEE6417787A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77DF9AB2-BCEA-43E8-9528-7AEE6417787A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DF9AB2-BCEA-43E8-9528-7AEE6417787A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DF9AB2-BCEA-43E8-9528-7AEE6417787A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DF9AB2-BCEA-43E8-9528-7AEE6417787A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

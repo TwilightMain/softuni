@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{73EE1676-D639-4242-915C-6643E45A9E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73EE1676-D639-4242-915C-6643E45A9E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EE1676-D639-4242-915C-6643E45A9E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EE1676-D639-4242-915C-6643E45A9E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EE1676-D639-4242-915C-6643E45A9E13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
